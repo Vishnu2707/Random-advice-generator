@@ -1,3 +1,9 @@
+# Random Advice Generator
+
+Intended to provide random advices!! 
+
+Implementing API fetch concept in React.
+
 # npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
